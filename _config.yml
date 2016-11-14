@@ -13,7 +13,12 @@ baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: |
-  — <br>
+  Developer in Seattle.
+  <br>
+  Reader, occasional writer, big fan of ramen and VR.
+  <br>
+  —
+  <br>
   powered by jekyll <br>
   theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a>.
 
