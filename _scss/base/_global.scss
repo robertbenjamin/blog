@@ -81,6 +81,10 @@ small {
   font-size: 60%;
 }
 
+ul, ol li {
+  line-height: 1.6;
+}
+
 ul li { list-style-type: circle; }
 ol li { list-style-type: decimal; }
 
@@ -89,4 +93,9 @@ a {
   &:hover {
     color: $text-color;
   }
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
 }

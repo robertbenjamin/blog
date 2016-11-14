@@ -75,7 +75,7 @@
     font-weight: lighter;
     color: lighten($text-color, 40%);
     border-left: 4px solid $highlight-color;
-    padding-left: $spacing-s;
+    padding-left: $spacing-m;
     margin-top: $spacing-m;
     margin-bottom: $spacing-m;
     margin-left: -$spacing-l;
@@ -92,6 +92,7 @@
   } // end blockquote
 
   img {
+    border-radius: 2px;
     width: 100%;
     height: 100%;
   }

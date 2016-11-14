@@ -29,10 +29,19 @@ github: robertbenjamin
 ga_domain: # m3xm.github.io
 ga_tracking_id: # UA-47727049-1
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
-permalink: pretty
+permalink: :slug
 highlighter: rouge
 
 paginate: 10
