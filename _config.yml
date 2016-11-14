@@ -9,6 +9,7 @@ author-first-name: "robert"
 author: "Robert Benjamin"
 
 url: "https://blog.robertbenjamin.co"
+ssl_url: "https://blog.robertbenjamin.co"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
