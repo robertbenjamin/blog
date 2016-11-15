@@ -32,8 +32,8 @@ github: robertbenjamin
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: blog.robertbenjamin.co
-ga_tracking_id: UA-87422739-1
+# ga_domain: blog.robertbenjamin.co
+# ga_tracking_id: UA-87422739-1
 
 # Defaults
 defaults:
