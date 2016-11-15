@@ -11,4 +11,4 @@ What would’ve happened if our prodigy skateboarding kid had been born a *hundr
 
 How many skills and talents are going to waste because the technology they rely on hasn’t been invented yet, or isn’t yet popular? How many god-like hover bike riders are there right now that think they aren’t good at anything? Or holo-pianists or multi-dimensional photographers or internal speech artists or AI therapists?
 
-And for that matter, how many skill-sets are antiquated and gone, skill-sets that certain people would have been extraordinary at? Why are people judged on how remarkable they are at whatever arbitrary talents exist and are viewed as desirable during their lifetime?
+And for that matter, how many skill-sets are antiquated and gone, skill-sets that certain people would have been extraordinary at? Why are people judged on how remarkable they are at whatever arbitrary talents exist and are viewed as desirable or valuable during their lifetime?
