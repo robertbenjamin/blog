@@ -40,7 +40,7 @@ window.onload = function() {
     }
   }
 
-  // Open Twitter/share in a Pop-Up
+  // Open Twitter/share in a pop-up
   var $popup = document.getElementsByClassName('popup')[0];
   if (!$popup) {
     return;
@@ -62,4 +62,34 @@ window.onload = function() {
 
     return false;
   });
+
+  // Make iframe videos responsive
+  // Slightly modified version of a script by Todd Moto
+
+  (function ( window, document, undefined ) {
+    var $iframes = Array.from(document.getElementsByTagName('iframe'));
+    $iframes.forEach(function(iframe) {
+      var players = /www.youtube.com|player.vimeo.com/;
+
+      if (iframe.src.search(players) > 0) {
+        var videoRatio        = (iframe.height / iframe.width) * 100;
+
+        iframe.style.position = 'absolute';
+        iframe.style.top      = '0';
+        iframe.style.left     = '0';
+        iframe.width          = '100%';
+        iframe.height         = '100%';
+
+        var wrap              =  document.createElement('div');
+        wrap.className        = 'fluid-vids';
+        wrap.style.width      = '100%';
+        wrap.style.position   = 'relative';
+        wrap.style.paddingTop = videoRatio + '%';
+
+        var iframeParent      = iframe.parentNode;
+        iframeParent.insertBefore(wrap, iframe);
+        wrap.appendChild(iframe);
+      }
+    });
+  })(window,document);
 }
