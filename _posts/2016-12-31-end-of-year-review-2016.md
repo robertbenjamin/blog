@@ -19,7 +19,7 @@ If last year was about change and transitions, this year was about settling and 
 
 **Consistently exercised.** I’ve had bouts of gym going and running in the past, but outside of highschool sports I never had a steady (1 month+) exercise routine. I’ve tried to exercise regularly many times in the past but had always flaked out a few weeks in, and I attribute my current success to 1) having a partially forced schedule due to work and 2) having a gym in my apartment.
 
-It was certainly difficult at first, but the best benefit I’ve seen from this habit is increased energy and self-discipline. Even though working out or running draings energy immediately, in the long term it seems to increase the amount of stamina and self-control I have. I’m sure there’s combined biological and psycholgical reasons behind this, but it’s something I’ve never really experienced before and it’s wonderful.
+It was certainly difficult at first, but the best benefit I’ve seen from this habit is increased energy and self-discipline. Even though working out or running drains energy immediately, in the long term it seems to increase the amount of stamina and self-control I have. I’m sure there’s combined biological and psycholgical reasons behind this, but it’s something I’ve never really experienced before and it’s wonderful.
 
 <img src="{{ site.baseurl }}/assets/img/2016-12-31-end-of-year-review-2016/drops.jpg">
 
