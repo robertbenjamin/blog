@@ -1,63 +1,32 @@
-# Title of your blog; shows in the header
-name: "robert's blog"
+# Site Build Settings
 
-# Description of your content (will only be used on Google Search)
-description: "Robert Benjamin's wonderful blog."
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
 
-# Your name. Will show in your footer + sidebar
-author-first-name: "robert"
+# jekyll-paginate configuration
+paginate: 5
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: :title
+plugins: [
+  jekyll-paginate,
+  jekyll-sitemap,
+  jekyll-feed,
+  jekyll-seo-tag
+]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title: "Robert's Blog"
+description: "Nietsche hates cats."
 author: "Robert Benjamin"
 
-url: "https://blog.robertbenjamin.co"
-ssl_url: "https://blog.robertbenjamin.co"
-baseurl: ""
-
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: |
-  Developer in Seattle.
-  <br>
-  Reader, occasional writer, big fan of ramen and VR.
-  <br>
-  —
-  <br>
-  Powered by Jekyll. <br>
-  Theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a>.
-
-# Social Accounts (mine, as placeholders)
-
-twitter: robertbenj
-github: robertbenjamin
-# dribbble:
-# instagram: robertbenjamin
-
-# Google Analytics (you may want to changes these with yours or even delete :)
-
-# ga_domain: blog.robertbenjamin.co
-# ga_tracking_id: UA-87422739-1
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
-
-markdown: kramdown
-permalink: :slug
-highlighter: rouge
-
-paginate: 10
-paginate_path: "/page/:num"
-
-# Plugins
-gems: [jekyll-paginate]
-
-# SCSS
-
-sass:
-  sass_dir: _scss
-  style: :compressed
+github: [metadata]
