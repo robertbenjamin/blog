@@ -1,5 +1,6 @@
 ---
-title: 'Archive'
+title: Archive
+permalink: archive.html
 ---
 
 <ul class="posts">
