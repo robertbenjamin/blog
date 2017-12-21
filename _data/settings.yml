@@ -19,4 +19,4 @@ menu:
 social:
 - { icon: 'github', link: 'https://github.com/robertbenjamin' }
 - { icon: 'twitter', link: 'https://twitter.com/robertbenj' }
-- { icon: 'rss-square', link: 'feed.xml' }
+- { icon: 'rss', link: 'feed.xml' }
