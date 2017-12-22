@@ -5,15 +5,15 @@ title: Home
 
 {% for post in paginator.posts %}
 <div class="posts">
-  <h1>
+  <h1 class="posts-title">
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
-  <p>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-  </p>
+  <span class="post-date">{{ post.date | date_to_string }}</span>
   {% if post.image.feature %}
   <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image.feature }}"></a>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <img src="{{ site.github.url }}/assets/img/{{ post.image.feature }}">
+    </a>
   </div>
   {% endif %}
   <p>
@@ -26,7 +26,8 @@ title: Home
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
+    <a class="pagination-button pagination-active next"
+       href="{{ site.github.url }}{{ paginator.next_page_path }}">Older</a>
   {% else %}
     <span class="pagination-button">Older</span>
   {% endif %}
