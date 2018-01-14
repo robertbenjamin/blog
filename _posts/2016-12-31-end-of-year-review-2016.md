@@ -3,7 +3,9 @@ title:  "End of Year Review - 2016"
 date:   2016-12-31
 ---
 
-<iframe src="https://player.vimeo.com/video/197569497" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="iframe-container">
+  <iframe src="https://player.vimeo.com/video/197569497" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 I’ve just returned from a short ride up north, near some beach in Shoreline. The skies were pale blue and slightly overcast, and it was chilly enough that the air pinched my ears but wasn’t enough to be miserable. I think the crisp wind brightened my mind because when I got back I had the immediate sense that it would be a good time to write about the past year.
 
