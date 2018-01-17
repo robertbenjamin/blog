@@ -1,6 +1,7 @@
 ---
 title:  "End of Year Review - 2017"
 date:   2018-01-13
+redirect_from: "/end-of-year-review-2018"
 ---
 
 <div class="iframe-container">
