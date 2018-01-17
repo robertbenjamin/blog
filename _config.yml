@@ -30,4 +30,16 @@ title: "Robert's Blog"
 description: "Nietsche hates cats."
 author: "Robert Benjamin"
 
+social:
+  name: Robert Benjamin
+  links:
+    - https://twitter.com/robertbenj
+    - https://github.com/robertbenjamin
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/hey-its-me.jpg
+
 github: [metadata]
