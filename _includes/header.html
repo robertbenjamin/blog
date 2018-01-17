@@ -1,9 +1,12 @@
-<header class="masthead">
-  <h3 class="masthead-title">
-    <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
-    {% if site.data.settings.tagline %}
-      <small class="masthead-subtitle">{{ site.data.settings.tagline }}</small>
-    {% endif %}
-    {% include menu.html %}
-  </h3>
+<header>
+  <div class="title-container">
+      <div class="title">
+        <a href="{{ site.github.url }}/">
+          <h1>{{ site.data.settings.title }}</h1></a>
+        {% if site.data.settings.tagline %}
+          <small class="subtitle">{{ site.data.settings.tagline }}</small>
+        {% endif %}
+      </div>
+  </div>
+  {% include menu.html %}
 </header>
