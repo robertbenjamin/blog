@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/robertbenjamin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://robertbenjamin.co
+  * I am robertbenjamin (https://keybase.io/robertbenjamin) on keybase.
+  * I have a public key with fingerprint CFB5 F420 B793 0729 49C1  CF84 B71A 25F8 3B39 7139
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101487c07988234c0fa1f986bb7cf17a12d848488a4d7f7081d0960e349e1700ce40a",
+            "fingerprint": "cfb5f420b793072949c1cf84b71a25f83b397139",
+            "host": "keybase.io",
+            "key_id": "b71a25f83b397139",
+            "kid": "0101487c07988234c0fa1f986bb7cf17a12d848488a4d7f7081d0960e349e1700ce40a",
+            "uid": "05596165aad0b4911980ae44a54f4b19",
+            "username": "robertbenjamin"
+        },
+        "service": {
+            "hostname": "robertbenjamin.co",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479409773,
+    "expire_in": 157680000,
+    "prev": "950bf7069566f257fff4cc2e20b24366389324beb417bda0cc478021dd598a77",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD52oyyl6PaQhW1YQXKY2Z3d2Tkm3aDQsgtZVCanmd1ZW+3s
+nvbsMUtFTOkhMEK6GHQvorIrQSTRTaSi60NFVNiNtAfpTneQZru8+djMwzDzf9/3
+f/8/f1ta71BqCh3YsiD6sflUys0r+5OhJeFQrFJirrlWilRKZfz3wVeZPOFHy2xT
+ikgAAoh0bABMdF1WkAEsCi2ia4xhw4KYQtnUkdg6RSa2MNChCYgGuIIIhxgAgyNA
+pWzJsp0S7sU92/GFrGEx1UIyYJgoAMsEEQMalo4YhlRWLV1hCsFQIYK40k0EDGGO
+0QQP2654E5fob3s94P+z7+QfOVUlGtRUSk3AEIGQ6IByhKiKLMRgkDeZ4J5DY1yg
+PZdxz2fcKaUx25GqsyURK7cNHrQ3qKdHXNgISot7ru8a7ioRXun78UQkoPtr4wF+
+DWfRv0pRZjumaKlglHMvYbuOFIECafh2IA0RJggQjJVsiVfEbY9H7QChYk0HYgV5
+eLmQJCpgonqNqJpmySq2LAsZhszF18hI0TRFJ4qMGGcIYmZSYBgI60CGpqkSnWIs
+BbWtdlwpogqbtERIJuwSh/pJj0vVrZeX9wmlpIb69e0VjFoodcDgfwO4N6N/6H3G
+pPMthTOO3Z+w41rT3j37M98szj+U67R3NT29WHPX2mhPmAiVM8P9yXXFHy7f6Co1
+C4flu53z0he+yshKuz3k7KLthZ+9jg/pm3Znfb3YNaLqQHFTwfxPOZUXZhkXGtKA
+itiQkWPf1Jxo/npHjU75Xmq/vJZZc9VZ72WG183c2tqS92RUbeOXYe+mdvarL9o3
+7eP042NiLz89fp57s6B5w7J9oW1K59Gce4nYqO5dHfUVh38ee2bd1Qbdmd0de9S2
+9OGUpaRxTpG/pbaKLss8+6Kju/jb6UtKW2va66E7x5W1q4/azul1b4/MLTj54Dmp
+GX/p+ujNDU238pIrwiPnw/YfBwu9XxdWRI0=
+=+/v9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robertbenjamin
+
+==================================================================
