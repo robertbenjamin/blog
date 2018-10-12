@@ -97,8 +97,31 @@ header {
 
 .title-container {
   padding: 15px;
-  background-color: #ff4136;
+  background-color: #0074D9;
   border-radius: 3px;
+
+  background: linear-gradient(270deg, #001f3f, #7FDBFF);
+  background-size: 400% 400%;
+
+  -webkit-animation: GradientShift 7s ease-in-out infinite;
+  -moz-animation: GradientShift 7s ease-in-out infinite;
+  animation: GradientShift 7s ease-in-out infinite;
+}
+
+@-webkit-keyframes GradientShift {
+  0% { background-position:96% 0% }
+  50% { background-position:5% 100% }
+  100% { background-position:96% 0% }
+}
+@-moz-keyframes GradientShift {
+  0% { background-position:96% 0% }
+  50% { background-position:5% 100% }
+  100% { background-position:96% 0% }
+}
+@keyframes GradientShift {
+  0% { background-position:96% 0% }
+  50% { background-position:5% 100% }
+  100% { background-position:96% 0% }
 }
 
 .title-container .title {
@@ -116,7 +139,7 @@ header {
 }
 
 .title-container .title a h1:hover {
-  color: #ff851b;
+  color: #39CCCC;
 }
 
 .title-container .subtitle {
